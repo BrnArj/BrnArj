@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrnArj / Olá, eu sou o Breno!
-- 👀 Atualmente, trabalhando como Desenvolvedor Front-End Jr na Heap Engenharia e Software. / Currently working as a Jr Front-End Developer on Heap Engenharia e Software.
+- 👀 Atualmente, trabalhando como Desenvolvedor Front-End na Heap Engenharia e Software. / Currently working as a Front-End Developer on Heap Engenharia e Software.
 - 🌱 No momento, estudando sobre React e NextJS. / At the moment i'm focused on learning React and NextJS.
 - 💞️ Disponível para colaborar com qualquer projeto! / I'm available to collaborate in any project.
 - 📫 Contato: brnarjdev@gmail.com 
